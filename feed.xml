@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
   <title>Aboringblog (Typlog export)</title>
-  <link>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO</link>
+  <link>https://aboringblog.github.io/aboringblog/</link>
   <description>Static site generated from Typlog JSON export.</description>
   <item>
   <title>Shangri-La Is Calling</title>
